@@ -33,7 +33,7 @@ docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
 docopt==0.6.2
-duplicity==0.8.21
+duplicity>=3.0.0
 exceptiongroup==1.2.2
 executing==2.1.0
 facebook-sdk==3.1.0
