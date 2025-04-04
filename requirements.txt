@@ -13,3 +13,6 @@ fpdf==1.7.2
 bcrypt==3.2.0
 redis==5.2.1
 regex==2024.11.6
+pymongo==4.11.1
+PyJWT==2.3.0
+twilio==9.5.1
