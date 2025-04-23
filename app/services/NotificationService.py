@@ -27,6 +27,3 @@ class NotificationService:
         except Exception as e:
             print(f"Erreur d'envoi d'e-mail: {e}")
 
-# Exemple d'utilisation :
-# notification_service = NotificationService("smtp.gmail.com", 587, "ton_email@gmail.com", "ton_mot_de_passe")
-# notification_service.envoyer_email("destinataire@example.com", "Nouvelle Note Ajoutée", "Votre nouvelle note a été ajoutée.")
